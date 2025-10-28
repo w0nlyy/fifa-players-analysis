@@ -1,5 +1,5 @@
 Short description:
-This project implements a multi-method study for analyzing and visualizing football players’ skills using the Football Players Data dataset from Kaggle.
+This project implements a multi-method study for analyzing and visualizing football players skills using the Football Players Data dataset from Kaggle.
 The goal is to compare dimensionality reduction approaches (PCA, Classical MDS, Non-metric MDS) and explore latent patterns in players’ technical, physical, and mental attributes while excluding non-performance features (e.g., personal, economic, or club-related data).
 
 Key facts:
